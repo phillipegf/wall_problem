@@ -1,3 +1,6 @@
+![Parede](/problem.png?raw=true "Parede")
+
+
 ### Análise de tempo
 1. Temos, na primeira iteração do algoritmo, uma complexidade de tempo de O(n*m), onde n é o tamanho da parede e m é o número máximo de tijolos em uma linha da parede. 
 Essa iteração produz como resultado a List `res`, que, por sua vez, tem o mesmo tamanho da parede e o mesmo número de tijolos (mas com valores diferentes).
